@@ -1,0 +1,18 @@
+# What the kit writes: the unsealed packages are made from your own ROM set and never belong here.
+batrider_chase_kit/output/
+
+# Your ROM set: keep only the note.
+batrider_chase_kit/roms/*
+!batrider_chase_kit/roms/PUT_ROMS_HERE.txt
+
+# ROM sets and built packages anywhere else.
+*.zip
+*.z64
+*.n64
+*.v64
+*.vpk
+
+# System files.
+.DS_Store
+Thumbs.db
+desktop.ini

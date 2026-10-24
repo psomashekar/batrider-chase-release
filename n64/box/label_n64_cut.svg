@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.5mm" height="66.5mm" viewBox="0 0 58.5 66.5">
+<!-- Batrider: Chase! N64 label, the die-cut contour (the trim). Page = trim + 2.0 mm bleed. -->
+<path id="CutContour" d="M 6.000 3.672 A 162.500 162.500 0 0 1 52.500 3.672 Q 56.500 4.301 56.500 8.301 L 56.500 61.500 Q 56.500 64.500 53.500 64.500 L 5.000 64.500 Q 2.000 64.500 2.000 61.500 L 2.000 8.301 Q 2.000 4.301 6.000 3.672 Z" fill="none" stroke="#ff00ff" stroke-width=".25"/>
+</svg>
