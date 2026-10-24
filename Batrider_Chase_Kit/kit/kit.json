@@ -1,0 +1,51 @@
+{
+  "kit": 1,
+  "set": "batriderj",
+  "check": "0ba7ebc0746ac3b7bb0b9ce7682a3ffa25fb0e31df5dde263ddfb323c1d8bc98",
+  "built": "2026-10-22 07:06",
+  "source": "d20fac4",
+  "entries": [
+    {
+      "platform": "n64",
+      "out": "n64/batrider_n64_chase.z64",
+      "blob": "n64.bin",
+      "size": 49430528,
+      "sha256": "77726cd9e1608f7b8e9246e5887144463be4430ca2ea97ddeecda6c4c72f4e8c"
+    },
+    {
+      "platform": "n64",
+      "out": "manual/batrider_chase_manual_n64.pdf",
+      "blob": "manual_n64.bin",
+      "size": 10154840,
+      "sha256": "12f1839e92021a9c232face63972e3a86869f91a1abdc7a4fcde6c72b0606ad4"
+    },
+    {
+      "platform": "n64",
+      "out": "manual/batrider_chase_manual_n64_ja.pdf",
+      "blob": "manual_n64_ja.bin",
+      "size": 11316158,
+      "sha256": "0bd1a356be0785e98c608d43047f83afa87820f007f491f1c3d1092f48b46b1a"
+    },
+    {
+      "platform": "vita",
+      "out": "vita/batrider_vita.vpk",
+      "blob": "vita.bin",
+      "size": 23921529,
+      "sha256": "2f0410252e6940d19d5048792a1f73f9f273c1762cf67f80e292fd52bea1274f"
+    },
+    {
+      "platform": "vita",
+      "out": "manual/batrider_chase_manual_vita.pdf",
+      "blob": "manual_vita.bin",
+      "size": 18219069,
+      "sha256": "a616104ae0907e29bf87851acfe0065658df2acf7a0c74341c7d8d96f4d110c5"
+    },
+    {
+      "platform": "vita",
+      "out": "manual/batrider_chase_manual_vita_ja.pdf",
+      "blob": "manual_vita_ja.bin",
+      "size": 19446644,
+      "sha256": "5d0af6546692d812726979a1fcfb9df7f60b5eb22a4b0b167017d7bbc0d9c614"
+    }
+  ]
+}
